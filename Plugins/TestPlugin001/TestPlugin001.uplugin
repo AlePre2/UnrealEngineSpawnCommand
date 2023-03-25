@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TestPlugin001",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "AIV",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TestPlugin001",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
